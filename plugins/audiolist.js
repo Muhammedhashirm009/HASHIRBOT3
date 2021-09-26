@@ -295,7 +295,7 @@ welcome
 wow
 yes
 *━━━━━ AUDIO COMMAND ━━━*
-_*🌍© MIKHAIEL [ JIMBROOTAN , LUCIFER ]*_
+_*🌍© MUHAMMED HASHIR [ coded by Hashir , Audios Managed by Ashker  ]*_
 `}) 
 
  }));
@@ -590,7 +590,7 @@ welcome
 wow
 yes
 *━━━━━ AUDIO COMMAND ━━━*
-_*🌍 © MIKHAIEL [ JIMBROOTAN , LUCIFER ]*_
+_*🌍 © MUHAMMED HASHIR [ coded by Hashir , Audios Managed by Ashker ]*_
 `}) 
 
  }));
